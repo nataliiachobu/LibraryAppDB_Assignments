@@ -11,7 +11,7 @@ import org.openqa.selenium.support.ui.Select;
 import java.util.ArrayList;
 import java.util.List;
 
-public class US03StepDefinitions {
+public class US03StepDefinitionsNC {
     BookPage bookPage = new BookPage();
     List<String> actualList;
 

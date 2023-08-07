@@ -8,7 +8,7 @@ import org.junit.Assert;
 
 import java.util.List;
 
-public class us01StepDefinitions {
+public class us01StepDefinitionsNC {
     String expectedDataCount;
     String actualDataCount;
     List<String> actualDataColumn;

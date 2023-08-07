@@ -1,6 +1,5 @@
 package com.library.steps;
 
-import com.library.pages.BorrowedBooksPage;
 import com.library.pages.DashBoardPage;
 import com.library.pages.LoginPage;
 import com.library.utility.BrowserUtil;
@@ -10,7 +9,7 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.junit.Assert;
 
-public class US02StepDefinitions {
+public class US02StepDefinitionsNC {
     String actualNumberOfBooks;
     LoginPage loginPage = new LoginPage();
     DashBoardPage dashBoardPage = new DashBoardPage();

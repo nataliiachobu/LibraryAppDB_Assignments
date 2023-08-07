@@ -5,7 +5,7 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.junit.Assert;
 
-public class US05StepDefinitions {
+public class US05StepDefinitionsNC {
     String actualResult;
     @When("I execute query to find most popular book genre")
     public void i_execute_query_to_find_most_popular_book_genre() {
